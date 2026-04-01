@@ -39,7 +39,6 @@ LABPROJESUNUM4.1/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-├── DEGERLENDIRME_KONTROL_LISTESI.md
 │
 ├── assets/
 ├── data/
